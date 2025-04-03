@@ -1,0 +1,23 @@
+# 1. Environments
+venv/
+env/
+.venv/
+.env
+
+# 2. Python cache
+__pycache__/
+*.py[cod]
+
+# 3. Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# 4. OS-specific
+.DS_Store
+Thumbs.db
+
+# 5. Logs
+*.log
+
+# 6. Large files (optional)
+# e.g., model weights, data sets, etc.
+# If your model weights are large, consider storing them on Hugging Face instead.
