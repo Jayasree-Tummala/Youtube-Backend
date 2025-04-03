@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+transformers
+google-api-python-client
+vaderSentiment
+matplotlib
+pandas
+wordcloud
+jinja2
